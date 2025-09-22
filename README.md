@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a Full Stack Developer with hands-on experience building scalable, real-time web applications using **React**, **Node.js**, and **WebRTC**.  
-Currently working on a **facial recognition attendance system** using face-api.js & TensorFlow.js.  
+I’m a Full Stack Developer with hands-on experience building scalable, real-time web applications using **React**, **Node.js**, and **WebRTC**.
 I love clean architecture, automation, and leveraging tech to solve real-world problems.
 
 - 🏢 **Interned at:** Bharat Intern (Full Stack Developer)
@@ -45,8 +44,7 @@ I love clean architecture, automation, and leveraging tech to solve real-world p
 ### 🚀 Projects
 
 - [**Civic-Samadhan**](https://github.com/Tushar-Sahu7/Civic-Samadhan): Civic issue reporting platform.
-- [**QR Code Generator**](https://github.com/Tushar-Sahu7/Time-Log-Script): Generate high-res QR codes via CLI using Node.js.
-- [**Face Recognition Attendance System**](https://github.com/Tushar-Sahu7/Learning-React): Real-time face detection for university attendance (React, face-api.js, TensorFlow.js).
+- [**QR Code Generator**](https://github.com/Tushar-Sahu7/qr-code-generator): Generate high-res QR codes via CLI using Node.js.
 - [**Sarkari Result Clone**](https://github.com/Tushar-Sahu7/Sarkari-Result-Clone): Replica of Indian government results portal.
 - [**Data Structure and Algorithm**](https://github.com/Tushar-Sahu7/Data-Structure-and-Algorithm): My DSA journey in C++ and JavaScript.
 

@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Tushar Sahu 👋 -->
 <h1 align="center">Hi 👋, I'm Tushar Sahu!</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Chess Enthusiast</h3>
+<h3 align="center">Software Developer Engineer | Full Stack Developer | Problem Solver </h3>
 <p align="center">
   <a href="https://github.com/Tushar-Sahu7"><img src="https://img.shields.io/github/followers/Tushar-Sahu7?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/tushar-sahu-8b39b4290"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Sahu-blue?logo=linkedin" alt="LinkedIn"></a>
